@@ -21,3 +21,4 @@ resource "aws_vpc" "arunVPC" {
   tags = {
     Name = "arunVNetwork"
   }
+}
